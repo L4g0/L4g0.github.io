@@ -11,10 +11,10 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<h1>Sound</h1>
+	<h3>Sound</h3>
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
-	<h1>Programming</h1>
+	<h3>Programming</h3>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
