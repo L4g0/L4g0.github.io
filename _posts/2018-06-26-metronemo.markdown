@@ -1,5 +1,5 @@
 ---
-title: ":metal: Indigo, minimalist jekyll theme"
+title: ":metal: MetroNemo, open source haptic metronome"
 layout: post
 date: 2018-06-26 22:10
 tag: MetroNemo
