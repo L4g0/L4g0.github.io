@@ -6,7 +6,7 @@ tag:
 - MetroNemo
 - music
 - UC3Music
-image: https://github.com/UC3Music/MetroNemo/blob/master/img/logo.png
+image: https://raw.githubusercontent.com/UC3Music/MetroNemo/master/img/logo.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -16,7 +16,7 @@ author: pablolago
 externalLink: false
 ---
 
-![Prototype](https://github.com/UC3Music/MetroNemo/blob/master/img/FirstApproach.jpg)
+![Prototype](https://raw.githubusercontent.com/UC3Music/MetroNemo/master/img/FirstApproach.jpg)
 
 ---
 
