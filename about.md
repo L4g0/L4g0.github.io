@@ -12,13 +12,13 @@ layout: page
 
 <ul class="skill-list">
 	<h3>Sound</h3>
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
+	<li>Audio edition, production, mixing...</li>
+	<li>Acoustics - In field measurements - Sonorization</li>
 	<h3>Programming</h3>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
+	<li>Java - C - Phyton</li>
+	<li>Octave - Matlab </li>
+	<li>HMTL - CSS - JavaScript</li>
+	<li>Linux - Windows</li>
 </ul>
 
 <h2>Projects</h2>
