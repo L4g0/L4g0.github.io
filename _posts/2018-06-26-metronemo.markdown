@@ -26,7 +26,7 @@ What has inside?
 - Haptic motor
 - Battery
 - Magic
-- Travis
+
 ---
 
 [Check it out](https://github.com/UC3Music/MetroNemo) here.
