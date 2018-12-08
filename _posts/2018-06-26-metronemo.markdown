@@ -7,7 +7,7 @@ tag:
 - music
 - UC3Music
 image: https://raw.githubusercontent.com/UC3Music/MetroNemo/master/img/logo.png
-headerImage: false
+headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "A vibrating metronome based in Arduino [Work in Progress]"
