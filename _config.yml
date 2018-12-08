@@ -1,9 +1,9 @@
 # main text of home
 name: Pablo Lago
-bio: Audiovisual engineer
+bio: audiovisual engineer and musician
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Pablo Lago's personal website
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://L4g0.github.io/new/
+url: https://L4g0.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -51,7 +51,7 @@ github: L4g0
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: PabloLagodB@gmail.com
 
 authors:
     johndoe:
@@ -70,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
