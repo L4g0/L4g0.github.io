@@ -3,9 +3,9 @@ title: ":metal: MetroNemo, open source haptic metronome"
 layout: post
 date: 2018-06-26 22:10
 tag:
--MetroNemo
--music
--UC3Music
+- MetroNemo
+- music
+- UC3Music
 image: https://github.com/UC3Music/MetroNemo/blob/master/img/logo.png
 headerImage: false
 projects: true
