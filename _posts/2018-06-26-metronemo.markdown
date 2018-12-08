@@ -1,15 +1,15 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":metal: Indigo, minimalist jekyll theme"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+date: 2018-06-26 22:10
+tag: MetroNemo
+image: https://github.com/UC3Music/MetroNemo/blob/master/img/logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "A vibrating metronome based in Arduino [Work in Progress]"
 category: project
-author: johndoe
+author: pablolago
 externalLink: false
 ---
 
@@ -31,5 +31,5 @@ What has inside?
 
 ---
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+[Check it out](https://github.com/UC3Music/MetroNemo) here.
+If you need some help, just [tell me](https://github.com/UC3Music/MetroNemo/issues).
