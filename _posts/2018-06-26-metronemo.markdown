@@ -10,7 +10,7 @@ hidden: true # don't count this post in blog pagination
 description: "A vibrating metronome based in Arduino [Work in Progress]"
 category: project
 author: pablolago
-externalLink: false
+externalLink: true
 ---
 
 ![Prototype](https://github.com/UC3Music/MetroNemo/blob/master/img/FirstApproach.jpg)
