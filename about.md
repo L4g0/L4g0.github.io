@@ -10,12 +10,12 @@ layout: page
 
 <h2>Skills</h2>
 
-<h4>Sound</h4>
+<h3>Sound</h3>
 <ul class="skill-list">
-	<li>Audio edition, production, mixing...</li>
+	<li>Audio edition - production - mixing...</li>
 	<li>Acoustics - In field measurements - Sonorization</li>
 </ul>
-<h4>Programming</h4>
+<h3>Programming</h3>
 <ul class="skill-list">
 	<li>Java - C - Phyton - Ruby</li>
 	<li>Octave - Matlab </li>
@@ -23,11 +23,15 @@ layout: page
 	<li>Processing - Wekinator</li>
 	<li>Linux - Windows</li>
 </ul>
+<h3>Electronics</h3>
+<ul class="skill-list">
+	<li>Microcontrollers - Arduino</li>
+	<li>Analog Electronics</li>
+</ul>
 
 <h2>Projects</h2>
 
 <ul>
 	<li><a href="https://github.com/UC3Music/MetroNemo">MetroNemo</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://l4g0.github.io/aamm-project/game.html">Asteroids Game</a></li>
 </ul>
