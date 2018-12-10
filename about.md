@@ -10,14 +10,17 @@ layout: page
 
 <h2>Skills</h2>
 
+<h3>Sound</h3>
 <ul class="skill-list">
-	<h3>Sound</h3>
 	<li>Audio edition, production, mixing...</li>
 	<li>Acoustics - In field measurements - Sonorization</li>
-	<h3>Programming</h3>
-	<li>Java - C - Phyton</li>
+</ul>
+<h3>Programming</h3>
+<ul class="skill-list">
+	<li>Java - C - Phyton - Ruby</li>
 	<li>Octave - Matlab </li>
 	<li>HMTL - CSS - JavaScript</li>
+	<li>Processing - Wekinator</li>
 	<li>Linux - Windows</li>
 </ul>
 
