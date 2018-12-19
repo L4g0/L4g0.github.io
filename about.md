@@ -8,6 +8,8 @@ layout: page
 
 <p>At the moment, I'm studying the fourth year of Audiovisual Systems Engineering at Carlos III University in Madrid.</p>
 
+<p>I am collaborating in <a href="http://music.uc3m.es">UC3Music</a></p>
+
 <h2>Skills</h2>
 
 <h3>Sound</h3>
