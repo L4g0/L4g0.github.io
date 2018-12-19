@@ -1,6 +1,6 @@
 # main text of home
 name: Pablo Lago
-bio: audiovisual engineering and music
+bio: audiovisual engineer and musician
 
 # twitter summary info
 description: Pablo Lago's personal website
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://www.linkedin.com/in/pabiolago/
 
-url: https://L4g0.github.io/indigo
+url: https://L4g0.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
