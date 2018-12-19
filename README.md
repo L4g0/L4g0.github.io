@@ -4,11 +4,6 @@
 
 <p align="center">Created using the [Indigo Jekyll template by Sergio Kopplin](https://github.com/sergiokopplin/indigo)</p>
 
-***
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
 
 ---
 
