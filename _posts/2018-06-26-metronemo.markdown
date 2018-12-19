@@ -20,7 +20,7 @@ externalLink: false
 
 ---
 
-What has inside?
+What's inside?
 
 - Arduino kind board
 - Haptic motor
