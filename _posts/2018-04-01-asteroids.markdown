@@ -1,5 +1,5 @@
 ---
-title: ":metal: Asteroids Game, developed along colleagues"
+title: ":sparkles: Asteroids Game, developed along colleagues"
 layout: post
 date: 2018-04-01 22:00
 tag:
