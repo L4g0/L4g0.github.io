@@ -17,17 +17,18 @@ layout: page
 </ul>
 <h3>Programming</h3>
 <ul class="skill-list">
-	<li>Java - C - Phyton - Ruby</li>
+	<li>Java - C - Python - Ruby</li>
 	<li>Octave - Matlab </li>
 	<li>HMTL - CSS - JavaScript</li>
 	<li>Processing - Wekinator</li>
-	<li>Linux - Windows</li>
 </ul>
 <h3>Electronics</h3>
 <ul class="skill-list">
 	<li>Microcontrollers - Arduino</li>
 	<li>Analog Electronics</li>
 </ul>
+
+and many more...
 
 <h2>Projects</h2>
 
