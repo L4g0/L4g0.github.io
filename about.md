@@ -35,6 +35,6 @@ and many more...
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/UC3Music/MetroNemo">MetroNemo</a></li>
-	<li><a href="https://l4g0.github.io/aamm-project/game.html">Asteroids Game</a></li>
+	<li><a href="https://l4g0.github.io/metronemo/">MetroNemo</a></li>
+	<li><a href="https://l4g0.github.io/asteroids/">Asteroids Game</a></li>
 </ul>
