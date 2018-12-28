@@ -100,10 +100,10 @@
             <svg class="icon icon-microphone"><use xlink:href="#icon-microphone"></use></svg>
         </a>
     {% endif %}
-
-    {% if site.email %}
-        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
-            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
+    
+    {% if site.soundcloud %}
+        <a class="link" data-title="soundcloud.com/{{ site.soundcloud }}" href="http://soundcloud.com/{{ site.soundcloud }}" target="_blank">
+            <svg class="icon icon-soundcloud"><use xlink:href="#icon-soundcloud"></use></svg>
         </a>
     {% endif %}
     
@@ -113,9 +113,9 @@
         </a>
     {% endif %}
     
-        {% if site.soundcloud %}
-        <a class="link" data-title="soundcloud.com/{{ site.soundcloud }}" href="http://soundcloud.com/{{ site.soundcloud }}" target="_blank">
-            <svg class="icon icon-soundcloud"><use xlink:href="#icon-soundcloud"></use></svg>
+    {% if site.email %}
+        <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
+            <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
 </div>
