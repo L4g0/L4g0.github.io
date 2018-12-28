@@ -106,4 +106,10 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+    
+    {% if site.flickr %}
+        <a class="link" data-title="flickr.com/{{ site.flickr }}" href="http://flickr.com/{{ site.flickr }}" target="_blank">
+            <svg class="icon icon-flickr"><use xlink:href="#icon-flickr"></use></svg>
+        </a>
+    {% endif %}
 </div>
