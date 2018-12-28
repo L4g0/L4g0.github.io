@@ -8,7 +8,7 @@ layout: page
 
 <p>At the moment, I'm studying the fourth year of Audiovisual Systems Engineering at Carlos III University in Madrid.</p>
 
-<p>I am collaborating in <a href="http://music.uc3m.es">UC3Music</a></p>
+<p>I am collaborating in <a href="http://music.uc3m.es">UC3Music</a>.</p>
 
 <h2>Skills</h2>
 
@@ -30,7 +30,12 @@ layout: page
 	<li>Analog Electronics</li>
 </ul>
 
-and many more...
+<h3>Music</h3>
+<ul class="skill-list">
+	<li>Music Theory</li>
+	<li>Instruments: sax, drums, piano/keyboard, guitar, bass...</li>
+</ul>
+
 
 <h2>Projects</h2>
 
