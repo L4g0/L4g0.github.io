@@ -61,13 +61,7 @@ authors:
         bio: audiovisual enginner and musician
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: PabIoLago
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
