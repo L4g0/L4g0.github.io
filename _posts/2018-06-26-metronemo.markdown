@@ -15,14 +15,14 @@ category: project
 author: pablolago
 externalLink: false
 ---
-
-![Prototype](https://raw.githubusercontent.com/UC3Music/MetroNemo/master/img/FirstApproach.jpg)
+An arduino-based metronome that uses vibration as pulse. Hence, it can be used in loud environments: gigs, drum practising...
+![Prototype](https://raw.githubusercontent.com/UC3Music/MetroNemo/master/img/image.png)
 
 ---
 
 What's inside?
 
-- Arduino kind board
+- ESP32
 - Haptic motor
 - Battery
 - Magic
