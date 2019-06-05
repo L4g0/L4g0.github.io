@@ -19,7 +19,7 @@ author: pablolago
 externalLink: false
 ---
 
-![Screenshot](https://github.com/L4g0/L4g0.github.io/blob/master/assets/images/asteroids.png "Game Screenshot")
+![Screenshot](https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/asteroids.png "Game Screenshot")
 
 ---
 
