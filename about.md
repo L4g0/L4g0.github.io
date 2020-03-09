@@ -4,18 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I'm a music and sound enthusiast. I am interested in sound engineering and everything related to audio. I love photography and video production.</p>
+<p>Hi! I'm a music and sound enthusiast. My main interest is sound engineering and everything related to audio. I also love photography and video production and everything related with the TV/Broadcast world.</p>
 
 <p>At the moment, I'm studying the fourth year of Audiovisual Systems Engineering at Carlos III University in Madrid.</p>
 
-<p>I am collaborating in <a href="http://music.uc3m.es">UC3Music</a>.</p>
+<p>I am collaborating in <a href="https://music.uc3m.es">UC3Music</a> and <a href="https://asrob.uc3m.es/">ASROB</a>.</p>
 
 <h2>Skills</h2>
 
 <h3>Sound</h3>
 <ul class="skill-list">
 	<li>Audio edition - production - mixing...</li>
-	<li>Acoustics - In field measurements - Sonorization</li>
+	<li>Acoustics - Sonorization</li>
 </ul>
 <h3>Programming</h3>
 <ul class="skill-list">
