@@ -12,15 +12,11 @@ layout: page
 
 <h2>Projects - Experience</h2>
 <h3>🎸 Music</h3>
-	<ul>
-	<li>Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)</li>
-	<li>Auto-produced songs (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)</li>
-	</ul>
+	- Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
+	- Auto-produced songs (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
 <h3>💻 Electronics & Programming</h3>
-	<ul>
-	<li><a href="https://l4g0.github.io/metronemo/">MetroNemo</a></li>
-	<li><a href="https://l4g0.github.io/asteroids/">Asteroids Game</a></li>
-	</ul>
+	- <a href="https://l4g0.github.io/metronemo/">MetroNemo</a>
+	- <a href="https://l4g0.github.io/asteroids/">Asteroids Game</a>
 	
 	
 <h2>Skills</h2>
