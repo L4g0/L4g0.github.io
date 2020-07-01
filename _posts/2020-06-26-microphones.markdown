@@ -13,6 +13,8 @@ author: pablolago
 description: Tipos de micrófonos: características y usos
 ---
 
+## ¿Qué es un micrófono?
+
 ## Micrófonos dinámicos
 
 ## Micrófonos de condensador
