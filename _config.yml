@@ -3,7 +3,7 @@ name: Pablo Lago
 bio: audiovisual engineer and musician
 
 # twitter summary info
-description: Pablo Lago's personal website
+description: Pablo Lago's personal website | audiovisual engineer and musician
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
+resume: false
 resume-external: true
 resume-url: https://www.linkedin.com/in/pabiolago/
 
