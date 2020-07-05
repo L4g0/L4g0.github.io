@@ -16,5 +16,18 @@ description: Tipos de micrófonos: características y usos
 ## ¿Qué es un micrófono?
 
 ## Micrófonos dinámicos
+### Transductor
+
+### Propiedades
+
+### Aplicaciones
+
+
+Algunos de los micrófonos dinámicos más utilizados son Shure SM57 y SM58.
 
 ## Micrófonos de condensador
+### Transductor
+
+### Propiedades
+
+### Aplicaciones
