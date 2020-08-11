@@ -26,7 +26,7 @@ layout: page
 - Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
 - Auto-produced songs (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
 	
-	
+<br>
 <h1>Skills</h1>
 <h3>Sound</h3>
 <ul class="skill-list">
