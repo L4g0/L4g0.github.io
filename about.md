@@ -10,20 +10,24 @@ layout: page
 
 <p>I collaborate in <a href="https://music.uc3m.es">UC3Music</a> and <a href="https://asrob.uc3m.es/">ASROB</a>.</p>
 
-<h2>Projects & Experience</h2>
-<h3>🎸 Music</h3>
+<h1>Projects & Experience</h1>
+<h3>🔊 Audiovisual</h3>
 
-- Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
-- Auto-produced songs (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
+- Engineering internship at <a href="http://vitelsa.es/">Vitelsa</a>
 
 
 <h3>💻 Electronics & Programming</h3>
 
 - <a href="https://l4g0.github.io/metronemo/">MetroNemo</a>
 - <a href="https://l4g0.github.io/asteroids/">Asteroids Game</a>
+
+<h3>🎸 Music</h3>
+
+- Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
+- Auto-produced songs (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
 	
 	
-<h2>Skills</h2>
+<h1>Skills</h1>
 <h3>Sound</h3>
 <ul class="skill-list">
 	<li>Audio edition - production - mixing...</li>
