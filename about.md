@@ -35,10 +35,10 @@ layout: page
 </ul>
 <h3>Programming</h3>
 <ul class="skill-list">
-	<li>Java - C - Python - Ruby</li>
+	<li>Java - C </li>
 	<li>Octave - Matlab </li>
 	<li>HMTL - CSS - JavaScript</li>
-	<li>Processing - Wekinator</li>
+	<li>Processing - Wekinator - Sonic Pi</li>
 </ul>
 <h3>Electronics</h3>
 <ul class="skill-list">
@@ -52,4 +52,4 @@ layout: page
 	<li>Instruments: sax, drums, piano/keyboard, guitar, bass...</li>
 </ul>
 
-If you are interested, you can check my <a href="https://www.linkedin.com/in/pabiolago/">resume</a> in LinkedIn.
+If you are interested, you can check a more detailed <a href="https://www.linkedin.com/in/pabiolago/">resume</a> in LinkedIn.
