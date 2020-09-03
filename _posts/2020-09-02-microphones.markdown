@@ -1,7 +1,7 @@
 ---
 title: "Tipos de micrófonos"
 layout: post
-date: 2019-06-26 22:48
+date: 2020-09-02 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
