@@ -1,17 +1,17 @@
 ---
-title: "Tipos de micrófonos"
+title: "Markdown Extra Components"
 layout: post
-date: 2020-06-26 22:44
-image: /assets/images/microphones.jpg
+date: 2019-06-26 22:48
+image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- audio
-- microphones
-- hardware
+- markdown
+- components
+- extra
 category: blog
-hidden: false
 author: pablolago
-description: Tipos de micrófonos: características y usos
+description: Markdown summary with different options
+# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
 ## Summary:
