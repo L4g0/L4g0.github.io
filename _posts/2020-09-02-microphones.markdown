@@ -2,7 +2,7 @@
 title: "Tipos de micrófonos"
 layout: post
 date: 2020-09-02 22:48
-image: /assets/images/markdown.jpg
+image: /assets/images/microphones.jpg
 headerImage: false
 tag:
 - audio
