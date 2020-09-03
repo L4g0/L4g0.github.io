@@ -3,11 +3,12 @@ title: "Tipos de micrófonos"
 layout: post
 date: 2020-06-26 22:44
 image: /assets/images/microphones.jpg
-headerImage: true
+headerImage: false
 tag:
 - audio
 - microphones
-star: true
+- hardware
+star: false
 category: blog
 author: pablolago
 description: Tipos de micrófonos: características y usos
