@@ -16,16 +16,22 @@ description: Características y aplicaciones de los distintos tipos de micrófon
 ## Índice:
 
 
-#### Qué es un micrófono
-- [Transductor](#evidence)
-- [Propiedades](#side-by-side)
-- [Aplicaciones](#star)
+#### [Micrófonos dinámicos](#microfonos-dinamicos)
+- [Transductor](#dyn-trans)
+- [Propiedades](#dyn-prop)
+- [Aplicaciones](#dyn-app)
 
-#### Micrófonos dinámicos
-- [Transductor](#gist)
-- [Propiedades](#codepen)
-- [Aplicaciones](#slideshare)
-- [Videos](#videos)
+#### Micrófonos de condensador
+- [Transductor](#cond-trans)
+- [Propiedades](#cond-prop)
+- [Aplicaciones](#cond-app)
+
+#### Micrófonos de cinta
+- [Transductor](#ribbon-trans)
+- [Propiedades](#ribbon-prop)
+- [Aplicaciones](#ribbon-app)
+
+### Otros tipos
 
 ---
 
