@@ -16,7 +16,7 @@ description: Características y aplicaciones de los distintos tipos de micrófon
 ## Índice:
 
 
-#### [Micrófonos dinámicos](#microfonos-dinamicos)
+#### [Micrófonos dinámicos](#microfonos-dinamicos-1)
 - [Transductor](#dyn-trans)
 - [Propiedades](#dyn-prop)
 - [Aplicaciones](#dyn-app)
@@ -31,7 +31,7 @@ description: Características y aplicaciones de los distintos tipos de micrófon
 - [Propiedades](#ribbon-prop)
 - [Aplicaciones](#ribbon-app)
 
-### Otros tipos
+#### Otros tipos
 
 ---
 
