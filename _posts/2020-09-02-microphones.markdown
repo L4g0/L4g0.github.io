@@ -13,21 +13,18 @@ author: pablolago
 description: Características y aplicaciones de los distintos tipos de micrófonos.
 ---
 
-## Summary:
+## Índice:
 
-You can pick as item to see how to apply in markdown.
 
-#### Especial Elements
-- [Evidence](#evidence)
-- [Side-by-Side](#side-by-side)
-- [Star](#star)
-- [Especial Breaker](#especial-breaker)
-- [Spoiler](#spoiler)
+#### Qué es un micrófono
+- [Transductor](#evidence)
+- [Propiedades](#side-by-side)
+- [Aplicaciones](#star)
 
-#### External Elements
-- [Gist](#gist)
-- [Codepen](#codepen)
-- [Slideshare](#slideshare)
+#### Micrófonos dinámicos
+- [Transductor](#gist)
+- [Propiedades](#codepen)
+- [Aplicaciones](#slideshare)
 - [Videos](#videos)
 
 ---
