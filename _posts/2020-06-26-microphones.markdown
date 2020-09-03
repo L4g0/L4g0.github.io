@@ -8,8 +8,8 @@ tag:
 - audio
 - microphones
 - hardware
-star: false
 category: blog
+hidden: false
 author: pablolago
 description: Tipos de micrófonos: características y usos
 ---
