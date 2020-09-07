@@ -14,6 +14,10 @@ layout: page
 <h3>🔊 Audiovisual</h3>
 
 - Engineering internship at <a href="http://vitelsa.es/">Vitelsa</a>
+	- Audiovisual and control systems integration
+	- Digital signage (BrightSign)
+	- Project memory, budget and presentation
+	- Planimetry (AutoCAD)
 
 
 <h3>💻 Electronics & Programming</h3>
@@ -24,7 +28,7 @@ layout: page
 <h3>🎸 Music</h3>
 
 - Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
-- Auto-produced songs (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
+- Auto-produced songs/demos (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
 	
 <br>
 <h1>Skills</h1>
