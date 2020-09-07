@@ -15,8 +15,11 @@ description: Características y aplicaciones de los distintos tipos de micrófon
 
 ## Índice:
 
+### [¿Qué es un micrófono?]()
 
-#### [Micrófonos dinámicos](#microfonos-dinamicos-1)
+### Tipos de micrófonos
+
+#### [Micrófonos dinámicos](#micrófonos-dinámicos-1)
 - [Transductor](#dyn-trans)
 - [Propiedades](#dyn-prop)
 - [Aplicaciones](#dyn-app)
@@ -40,11 +43,11 @@ De forma simplificada, los micrófonos son dispositivos que convierten las ondas
 - transductor sonoro-mecánico
 - transductor mecánico-eléctrico
 
-Según la naturaleza de dichos transductores, se pueden clasificar la mayoría de micrófonos en estas categorías.
+Según la naturaleza de dichos transductores, se pueden clasificar la mayoría de micrófonos en dinámicos, de condensador y de cinta.
 
 ## Micrófonos dinámicos
 ### Transductor
-
+El método para transformar las vibraciones del aire en corriente eléctrica es...
 ### Propiedades
 
 ### Aplicaciones
@@ -58,3 +61,12 @@ Algunos de los micrófonos dinámicos más utilizados son Shure SM57 y SM58.
 ### Propiedades
 
 ### Aplicaciones
+
+## Micrófonos de cinta
+### Transductor
+
+### Propiedades
+
+### Aplicaciones
+
+## Otros tipos de micrófono
