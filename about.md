@@ -13,7 +13,7 @@ layout: page
 <h1>Projects & Experience</h1>
 <h3>🔊 Audiovisual</h3>
 
-- Engineering internship at <a href="http://vitelsa.es/">Vitelsa</a>
+- Engineering internship at <a href="http://vitelsa.es/">Vitelsa</a> (6 months)
 	- Audiovisual and control systems integration
 	- Digital signage (BrightSign)
 	- Project memory, budget and presentation
