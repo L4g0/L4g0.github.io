@@ -41,8 +41,8 @@ layout: page
 
 <h3>Video</h3>
 <ul class="skill-list">
-	<li>Familiarized with broadcast enviroment</li>
-	<li>Video matrices, mixers, CCUs usage knowledge</li>
+	<li>Familiarized with the broadcast enviroment</li>
+	<li>Video matrices, mixers, CCUs knowledge</li>
 	<li>Non linear video edition</li>
 	<li>System integration</li>
 </ul>
