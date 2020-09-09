@@ -36,7 +36,18 @@ layout: page
 <ul class="skill-list">
 	<li>Audio edition - production - mixing...</li>
 	<li>Acoustics - Sonorization</li>
+	<li>Microphones and speakers</li>
 </ul>
+
+<h3>Video</h3>
+<ul class="skill-list">
+	<li>Familiarized with broadcast enviroment</li>
+	<li>Video matrices, mixers, CCUs usage knowledge</li>
+	<li>Non linear video edition</li>
+	<li>System integration</li>
+</ul>
+
+
 <h3>Programming</h3>
 <ul class="skill-list">
 	<li>Java - C </li>
