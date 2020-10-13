@@ -15,17 +15,17 @@ category: project
 author: pablolago
 externalLink: false
 ---
-## Services
-### Music production
+# Services
+## Music production
 I create an instrumental for your music and arrange and record the needed intruments.
 
-### Beats
+## Beats
 I have some beats for sale for you to use in your songs.
 
-### Mixing
+## Mixing
 I mix your song. You can send me the stems and I give you a finished mix.
 
-### Mastering
+## Mastering
 
 ---
 Contact me for more info.
