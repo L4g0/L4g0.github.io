@@ -17,7 +17,7 @@ externalLink: false
 ---
 # Services
 ## Music production
-I create an instrumental for your music and arrange and record the needed intruments.
+I create an instrumental for your music. I arrange and record the needed intruments.
 
 ## High quality instrument performances
 I can play an instrument for your song:
