@@ -41,8 +41,6 @@ Make your song sound better and get good locudness for online platforms.
 Contact me for more info.
 
 - [Soundcloud](https://soundcloud.com/soylago/)
-
 - [Youtube Channel](https://www.youtube.com/channel/UCLa6JuCw3ND4arrhQngJyvQ)
-
 - [Instagram](https://instagram.com/lagoproduce)
 
