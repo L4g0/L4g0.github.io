@@ -30,8 +30,9 @@ I can play an instrument for your song:
 
 Check availability.
 
-## Beats
-I have some beats for sale for you to use in your songs.
+## Beats (Coming soon)
+I have some generic beats for sale for you to use in your songs.
+I can work with you in order to make an exclusive custom beat that fits your song.
 
 ## Mixing
 I mix your song. You can send me the stems and I give you a finished mix.
