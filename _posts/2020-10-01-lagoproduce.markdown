@@ -1,5 +1,5 @@
 ---
-title: ":cd: LAGO: music production"
+title: "💿 LAGO: Music Production"
 layout: post
 date: 2020-10-01 10:00
 tag:
@@ -19,6 +19,15 @@ externalLink: false
 ## Music production
 I create an instrumental for your music and arrange and record the needed intruments.
 
+## High quality instrument performances
+I can play an instrument for your song:
+- Alto sax
+- Piano/keyboard
+- Bass
+- Drums
+
+Check availability.
+
 ## Beats
 I have some beats for sale for you to use in your songs.
 
@@ -26,11 +35,14 @@ I have some beats for sale for you to use in your songs.
 I mix your song. You can send me the stems and I give you a finished mix.
 
 ## Mastering
+Make your song sound better and get good locudness for online platforms.
 
 ---
 Contact me for more info.
 
-[Soundcloud](https://soundcloud.com/soylago/)
-[Youtube Channel](https://www.youtube.com/channel/UCLa6JuCw3ND4arrhQngJyvQ)
-[Instagram](https://instagram.com/lagoproduce)
+- [Soundcloud](https://soundcloud.com/soylago/)
+
+- [Youtube Channel](https://www.youtube.com/channel/UCLa6JuCw3ND4arrhQngJyvQ)
+
+- [Instagram](https://instagram.com/lagoproduce)
 
