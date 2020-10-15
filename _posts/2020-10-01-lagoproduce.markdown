@@ -48,10 +48,14 @@ DEMOS:
 
 
 ## Mixing
+
 I mix your song. You can send me the stems and I give you a finished mix.
 
 ## Mastering
 Make your song sound better and get good locudness for online platforms.
+
+
+<img src="https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/mix_setup.jpg" height="300px" alt="Mixing setup" text-align="center"></img>
 
 ---
 Contact me for more info.
