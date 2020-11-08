@@ -25,10 +25,12 @@ layout: page
 - <a href="https://l4g0.github.io/metronemo/">MetroNemo</a>
 - <a href="https://l4g0.github.io/asteroids/">Asteroids Game</a>
 
-<h3>🎸 Music</h3>
-
+<h3>🎸 Music and Sound</h3>
+- Gigs with diverse bands, playing sax, drums and bass guitar
 - Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
 - Auto-produced songs/demos (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
+- Sound technician for small jam sessions and gigs.
+- Recording, mixing and mastering engineer for two SQTP singles (to be released)
 	
 <br>
 <h1>Skills</h1>
