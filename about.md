@@ -30,10 +30,9 @@ layout: page
 - Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
 - Auto-produced songs/demos (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
 - Sound technician for small jam sessions and gigs.
-- Recording, mixing and mastering engineer for two Si Quieres Te Peino singles
-<ul>
-	<li><a href="https://youtu.be/4CgRB15LCm4">Sonia</a></li>
-</ul>
+- Recording, mixing and mastering engineer for two Si Quieres Te Peino singles:
+	- <a href="https://youtu.be/4CgRB15LCm4">Sonia</a>
+
 	
 <br>
 <h1>Skills</h1>
