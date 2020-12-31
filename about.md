@@ -32,6 +32,7 @@ layout: page
 - Sound technician for small jam sessions and gigs.
 - Recording, mixing and mastering engineer for two Si Quieres Te Peino singles:
 	- <a href="https://youtu.be/4CgRB15LCm4">Sonia</a>
+	- <a href="https://youtu.be/7LgmHn0uxG4">Mares de Polvo</a>
 
 	
 <br>
