@@ -60,7 +60,7 @@ Para que tu canción suene bien en todas las plataformas y tenga los niveles ade
 <img src="https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/mix_setup.jpg" height="300px" alt="Mixing setup" text-align="center" />
 
 ## Mis trabajos
-Puedes escuchar una recopilación de los trabajos en los que he participado en <a href="https://youtube.com/playlist?list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO2">esta playlist</a>-
+Puedes escuchar una recopilación de los trabajos en los que he participado en <a href="https://youtube.com/playlist?list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO2">esta playlist</a>.
 
 ---
 ¡Contáctame para más información!
