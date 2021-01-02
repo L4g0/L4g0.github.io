@@ -1,6 +1,6 @@
 # main text of home
 name: Pablo Lago
-bio: audiovisual engineer and musician
+bio: ingeniero de sonido e imagen
 
 # twitter summary info
 description: Pablo Lago's personal website | audiovisual engineer and musician
@@ -58,7 +58,7 @@ email: PabloLagodB@gmail.com
 authors:
     pablolago:
         name: Pablo Lago
-        bio: audiovisual enginner and musician
+        bio: ingeniero audiovisual y músico
         external-image: false
         picture: assets/images/profile20.jpg
         twitter: PabIoLago
