@@ -11,7 +11,7 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "A vibrating metronome based in Arduino [Work in Progress]"
-category: project
+category: blog
 author: pablolago
 externalLink: false
 ---
