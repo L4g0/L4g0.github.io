@@ -9,6 +9,7 @@ layout: page
 
 
 <form
+  class="form"
   action="https://formspree.io/f/mjvpzlnd"
   method="POST"
 >
