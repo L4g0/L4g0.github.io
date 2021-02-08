@@ -11,7 +11,7 @@ layout: page
   method="POST">
   <h2>Contact me</h2>
   <p type="Name:"><input placeholder="Write your name here"></input></p>
-  <p type="Email:"><input placeholder="how to contact you back (i won't spam you 🤞)"></input></p>
+  <p type="Email:"><input placeholder="How to contact you back (i won't spam you 🤞)"></input></p>
   <p type="Message:"><input placeholder="What would you like to tell me"></input></p>
   <button>Send Message</button>
 </form>
