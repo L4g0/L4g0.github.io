@@ -13,13 +13,13 @@ layout: page
   action="https://formspree.io/f/mjvpzlnd"
   method="POST"
 >
-  <label>
+  <label class="contactform">
     Your email:
-    <input type="text" name="_replyto">
+    <input class="contactform" type="text" name="_replyto">
   </label>
-  <label>
+  <label class="contactform">
     Your message:
-    <textarea name="message"></textarea>
+    <textarea class="contactform" name="message"></textarea>
   </label>
 
   <!-- your other form fields go here -->
