@@ -7,7 +7,6 @@ layout: page
 <h1> Contact me! </h1>
 <p>You can send me anything here.</p>
 
-
 <form
   class="form"
   action="https://formspree.io/f/mjvpzlnd"
@@ -24,7 +23,7 @@ layout: page
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit" class="contactform">Send</button>
 </form>
 
 
