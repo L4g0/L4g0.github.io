@@ -36,6 +36,20 @@
     box-sizing:border-box;
     position:relative}
 
+textarea.contactform{
+    width:100%;
+    padding:10px;
+    box-sizing:border-box;
+    background:none;
+    outline:none;
+    resize:none;
+    border:0;
+    transition:all .3s;
+    border-bottom:2px solid #bebed2}
+
+textarea:focus{
+    border-bottom:2px solid #78788c}
+
 input.contactform{
     width:100%;
     padding:10px;
@@ -49,7 +63,7 @@ input.contactform{
 
 input:focus{
     border-bottom:2px solid #78788c}
-p.contactform:before{
+label.contactform:before{
     content:attr(type);
     display:block;
     margin:28px 0 0;
