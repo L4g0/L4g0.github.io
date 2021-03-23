@@ -14,7 +14,7 @@ picture: assets/images/profile20.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/CV_PabloLago_2021MarzoPriv
+resume-url: assets/CV_PabloLago_2021MarzoPriv.pdf
 
 url: https://pablolago.es
 # your url: http://USERNAME.github.io
