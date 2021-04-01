@@ -14,10 +14,13 @@ category: blog
 author: pablolago
 externalLink: false
 ---
+
+Instagram no deja poner links, hay que apañárselas para poner varios en el mismo...
+
 <div class=links>
 <button><a href="https://pablolago.es">Página web</a></button>
 
-<button><a href="https://www.youtube.com/watch?v=4CgRB15LCm4&list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO&index=1">Si quieres te peino - Sonia</a></button>
+<button><a href="https://www.youtube.com/watch?v=4CgRB15LCm4&list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO&index=1">Si Quieres Te Peino - Sonia</a></button>
 
 <button><a href="https://pablolago.es/lagoproduce">Servicios de producción</a></button>
 
