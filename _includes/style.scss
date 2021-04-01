@@ -93,3 +93,29 @@ div.contactform{
     font-size:13px;
     box-shadow:10px 10px 40px -14px #000}
 span.contactform{margin:0 5px 0 15px}
+
+.links button{
+  background-color: #505762;
+  border: 1px solid #d6d6d6;
+  color: indigo;
+  padding: 10px 10px;
+  margin: 20px;
+  cursor: pointer;
+  width: 100%;
+  display: block;
+}
+
+.links button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.links button:hover {
+  background-color: #a0a0a0;
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+}
+
