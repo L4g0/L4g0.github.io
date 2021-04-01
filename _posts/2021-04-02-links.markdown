@@ -18,13 +18,15 @@ externalLink: false
 Instagram no deja poner links, hay que apañárselas para poner varios en el mismo...
 
 <div class=links>
+    
 <a href="https://pablolago.es"><button>Página web</button></a>
 
-<button><a href="https://www.youtube.com/watch?v=4CgRB15LCm4&list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO&index=1">Si Quieres Te Peino - Sonia</a></button>
+<a href="https://www.youtube.com/watch?v=4CgRB15LCm4&list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO&index=1"><button>Si Quieres Te Peino - Sonia</button></a>
 
-<button><a href="https://pablolago.es/lagoproduce">Servicios de producción</a></button>
+<a href="https://pablolago.es/lagoproduce"><button>Servicios de producción</button></a>
 
-<button><a href="https://open.spotify.com/playlist/5rSP1Kp1SJww9WORx0H0la?si=b0be107aec4348ea">Playlist Spotify Artistas en El Bierzo</a></button>
-  
+<a href="https://open.spotify.com/playlist/5rSP1Kp1SJww9WORx0H0la?si=b0be107aec4348ea"><button>Playlist Spotify Artistas en El Bierzo</button></a>
+
+
 </div>
 
