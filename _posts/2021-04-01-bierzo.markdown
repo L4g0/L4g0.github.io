@@ -7,7 +7,7 @@ tag:
 - music
 image: https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/bierzomusica.jpg
 headerImage: true
-projects: true
+projects: false
 hidden: true # don't count this post in blog pagination
 description: "Artistas en El Bierzo, música berciana e información sobre conciertos en la comarca"
 category: blog
