@@ -14,5 +14,8 @@ category: blog
 author: pablolago
 externalLink: false
 ---
-
+<button><a href="https://pablolago.es">Página web</a></button>
+<button><a href="https://www.youtube.com/watch?v=4CgRB15LCm4&list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO&index=1">Si quieres te peino - Sonia</a></button>
+<button><a href="https://pablolago.es/lagoproduce">Servicios de producción</a></button>
+<button><a href="https://open.spotify.com/playlist/5rSP1Kp1SJww9WORx0H0la?si=b0be107aec4348ea">Playlist Spotify Artistas en El Bierzo</a></button>
 
