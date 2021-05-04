@@ -13,6 +13,11 @@ layout: page
 <h1>Projects & Experience</h1>
 <h3>🔊 Audiovisual</h3>
 
+- Engineer at Vitelsa (4 months)
+	- NDI production system
+	- Configuration and testing of remote production on TriCaser ecosystem
+	- Instalation and configuration on the required locations
+
 - Engineering internship at <a href="http://vitelsa.es/">Vitelsa</a> (6 months)
 	- Audiovisual and control systems integration
 	- Digital signage (BrightSign)
@@ -33,6 +38,8 @@ layout: page
 - Recording, mixing and mastering engineer for two Si Quieres Te Peino singles:
 	- <a href="https://youtu.be/4CgRB15LCm4">Sonia</a>
 	- <a href="https://youtu.be/7LgmHn0uxG4">Mares de Polvo</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 	
 <br>
