@@ -62,6 +62,8 @@ Para que tu canción suene bien en todas las plataformas y tenga los niveles ade
 ## Mis trabajos
 Puedes escuchar una recopilación de los trabajos en los que he participado en <a href="https://youtube.com/playlist?list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO">esta playlist</a>.
 
+<iframe src="https://open.spotify.com/embed/playlist/7Cb5902XD5QvE3vssm5pe0" width="400" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ---
 ¡Contáctame para más información!
 
