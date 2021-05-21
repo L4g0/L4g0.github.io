@@ -13,7 +13,7 @@ layout: page
 <h1>Projects & Experience</h1>
 <h3>🔊 Audiovisual</h3>
 
-- Engineer at Vitelsa (4 months)
+- Engineer at <a href="http://vitelsa.es/">Vitelsa</a> (4 months)
 	- NDI production system
 	- Configuration and testing of remote production on TriCaser ecosystem
 	- Instalation and configuration on the required locations
