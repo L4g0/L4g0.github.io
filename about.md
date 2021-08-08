@@ -6,7 +6,7 @@ layout: page
 
 <p>Hi! I'm a music and sound enthusiast. My main interest is sound engineering and everything related to audio. I also love photography and video production and everything related with the TV/Broadcast world.</p>
 
-<p>At the moment, I'm finishing my Audiovisual Systems Engineering's Degree at Carlos III University in Madrid.</p>
+<p>I have a Bachelor on Audiovisual Systems Engineering's Degree at Carlos III University in Madrid.</p>
 
 <p>I collaborate in <a href="https://music.uc3m.es">UC3Music</a> and <a href="https://asrob.uc3m.es/">ASROB</a>.</p>
 
