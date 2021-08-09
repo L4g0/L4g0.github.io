@@ -36,10 +36,13 @@ Puedo tocar y grabar:
 - Bajo
 
 
-## Beats *(próximamente)*
+## Beats
 Tengo algunas intrumentales y beats que puedes utilizar para cantar sobre ellos. También me gustaría colaborar contigo y crear una instrumental que encaje lo mejor posible con tu canción.
 
 DEMOS:
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1102823143&color=%234b0082&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/soylago" title="LAGO" target="_blank" style="color: #cccccc; text-decoration: none;">LAGO</a> · <a href="https://soundcloud.com/soylago/trap-beat-80s" title="Trap Beat &amp; 80s" target="_blank" style="color: #cccccc; text-decoration: none;">Trap Beat &amp; 80s</a></div>
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910708327&color=%234b0082&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/soylago" title="LAGO" target="_blank" style="color: #cccccc; text-decoration: none;">LAGO</a> · <a href="https://soundcloud.com/soylago/lo-fi-type-beat" title="lo-fi type beat" target="_blank" style="color: #cccccc; text-decoration: none;">lo-fi type beat</a></div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/910621951&color=%234b0082&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/soylago" title="LAGO" target="_blank" style="color: #cccccc; text-decoration: none;">LAGO</a> · <a href="https://soundcloud.com/soylago/trap-beat-demo-2" title="Trap Beat Demo 2" target="_blank" style="color: #cccccc; text-decoration: none;">Trap Beat Demo 2</a></div>
