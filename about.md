@@ -13,6 +13,13 @@ layout: page
 <h1>Projects & Experience</h1>
 <h3>🔊 Audiovisual</h3>
 
+- Technical Engineer for <a href="https://www.aten.com/eu/en/">ATEN Infotech N.V.</a> (7 months)
+	- KVM and IT products manufacturer
+	- Technical consultancy for Spain and Portugal
+	- Pre-sales and post-sales support
+	- Order management using SAP
+	- Oppportunities management in Salesforce
+
 - Engineer at <a href="http://vitelsa.es/">Vitelsa</a> (4 months)
 	- NDI production system
 	- Configuration and testing of remote production on TriCaser ecosystem
