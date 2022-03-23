@@ -130,5 +130,5 @@ Contact me for more info.
 
 - [Soundcloud](https://soundcloud.com/soylago/)
 - [Youtube Channel](https://www.youtube.com/channel/UCLa6JuCw3ND4arrhQngJyvQ)
-- [Instagram](https://instagram.com/lagoproduce)
+- [Instagram](https://instagram.com/lagodb)
 -->
