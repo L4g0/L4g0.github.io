@@ -15,6 +15,10 @@ category: project
 author: pablolago
 externalLink: false
 ---
+# Portfolio
+
+Puedes consultar mi portfolio de trabajos publicados en <a href="https://musicwall.app/lago">MusicWall</a>.
+
 # Servicios
 ## Producción musical
 Creación de intrumentales musicales, componiendo los arreglos y grabando los instrumentos necesarios.
@@ -59,8 +63,9 @@ Mezcla de los instrumentos que componen tu canción. Si has grabado en un estudi
 
 ## Mastering
 Para que tu canción suene bien en todas las plataformas y tenga los niveles adecuados necesita un proceso de mastering.
-
+<!---
 <img src="https://raw.githubusercontent.com/L4g0/L4g0.github.io/master/assets/images/mix_setup.jpg" height="300px" alt="Mixing setup" text-align="center" />
+-->
 
 ## Mis trabajos
 Puedes escuchar una recopilación de los trabajos en los que he participado en <a href="https://youtube.com/playlist?list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO">esta playlist</a>.
