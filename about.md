@@ -13,6 +13,12 @@ layout: page
 <h1>Projects & Experience</h1>
 <h3>🔊 Audiovisual</h3>
 
+- AV Engineer at <a="https://www.moncadaylorenzo.es/">Moncada</a> (april 2022-now)
+	- Technical support for most important broadcasters in Spain (RTVE, Atresmedia, Mediaset, ...) and Cine Rentals
+	- Pre-sales and post-sales consultancy and support
+	- System installation and configurations
+	- Tracking system integrator for VR and AR systems. Lens calibration
+
 - Technical Engineer for <a href="https://www.aten.com/eu/en/">ATEN Infotech N.V.</a> (7 months)
 	- KVM and IT products manufacturer
 	- Technical consultancy for Spain and Portugal
@@ -23,7 +29,7 @@ layout: page
 - Engineer at <a href="http://vitelsa.es/">Vitelsa</a> (4 months)
 	- NDI production system
 	- Configuration and testing of remote production on TriCaser ecosystem
-	- Instalation and configuration on the required locations
+	- Installation and configuration on the required locations
 
 - Engineering internship at <a href="http://vitelsa.es/">Vitelsa</a> (6 months)
 	- Audiovisual and control systems integration
