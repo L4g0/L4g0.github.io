@@ -13,7 +13,7 @@ layout: page
 <h1>Projects & Experience</h1>
 <h3>🔊 Audiovisual</h3>
 
-- AV Engineer at <a="https://www.moncadaylorenzo.es/">Moncada</a> (april 2022-now)
+- AV Engineer at <a href="https://www.moncadaylorenzo.es/">Moncada</a> (april 2022-now)
 	- Technical support for most important broadcasters in Spain (RTVE, Atresmedia, Mediaset, ...) and Cine Rentals
 	- Pre-sales and post-sales consultancy and support
 	- System installation and configurations
