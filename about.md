@@ -44,13 +44,17 @@ layout: page
 - <a href="https://l4g0.github.io/asteroids/">Asteroids Game</a>
 
 <h3>🎸 Music and Sound</h3>
+- Currently playing bass with <a href="https://www.instagram.com/cometaclubdefans/">Cometa</a>
 - Gigs with diverse bands, playing sax, drums and bass guitar
+- Recording, producer, mix and mastering for Cometa
 - Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
 - Auto-produced songs/demos (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
 - Sound technician for small jam sessions and gigs.
 - Recording, mixing and mastering engineer for two Si Quieres Te Peino singles:
 	- <a href="https://youtu.be/4CgRB15LCm4">Sonia</a>
 	- <a href="https://youtu.be/7LgmHn0uxG4">Mares de Polvo</a>
+
+I have a YT playlist with my works:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
