@@ -70,4 +70,4 @@ layout: page
 	<li>Instrumentos: saxofón, batería, piano/teclado, guitarra, bajo</li>
 </ul>
 
-<p>Si quieres ver más detalles sobre mi experiencia, puedes visitar mi <a href="https://www.linkedin.com/in/pabiolago/">perfil de LinkedIn</a>.</p>
+<p>Si quieres ver más detalles sobre mi experiencia, puedes visitar mi <a href="https://www.linkedin.com/in/pablolag0/">perfil de LinkedIn</a>.</p>
