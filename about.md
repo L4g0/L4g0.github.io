@@ -4,96 +4,70 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! I'm a music and sound enthusiast. My main interest is sound engineering and everything related to audio. I also love photography and video production and everything related with the TV/Broadcast world.</p>
+<p>Soy ingeniero de sistemas audiovisuales especializado en integración y soporte técnico para televisión, cine y eventos en directo. He trabajado con muchos de los principales broadcasters y productoras, ofreciendo soluciones de calidad adaptadas a cada proyecto, desde la configuración de sistemas de producción virtual hasta la instalación de equipos de robótica en entornos de alta exigencia.</p>
 
-<p>I have a Bachelor's Degree on Audiovisual Systems Engineering's Degree at Carlos III University in Madrid.</p>
+<p>Mi trayectoria como músico me aporta una perspectiva diferente para abordar los retos técnicos. Entiendo la producción audiovisual no solo como un conjunto de equipos, sino como una herramienta para contar historias y transmitir emociones. Si buscas precisión técnica, visión global y resultados que funcionen a la primera, aquí estoy.</p>
 
-<p>I collaborate in <a href="https://music.uc3m.es">UC3Music</a> and <a href="https://asrob.uc3m.es/">ASROB</a>.</p>
+<h1>Proyectos</h1>
 
-<h1>Projects & Experience</h1>
-<h3>🔊 Audiovisual</h3>
+<h3>🎸 Música y Sonido</h3>
+<ul>
+	<li>Bajista en <a href="https://www.instagram.com/cometaclubdefans/">Cometa</a></li>
+	<li>Conciertos con diversas bandas, tocando saxo alto, batería y bajo</li>
+	<li>Grabación, producción, mezcla y masterización para Cometa</li>
+	<li>Asistente de grabación en el álbum <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> de SAVVA (2019)</li>
+	<li>Canciones y demos autoproducidas (en <a href="https://soundcloud.com/soylago">SoundCloud</a>)</li>
+	<li>Técnico de sonido para jams y pequeños directos</li>
+	<li>Ingeniero de grabación, mezcla y masterización para singles de Si Quieres Te Peino:
+		<ul>
+			<li><a href="https://youtu.be/4CgRB15LCm4">Sonia</a></li>
+			<li><a href="https://youtu.be/7LgmHn0uxG4">Mares de Polvo</a></li>
+		</ul>
+	</li>
+</ul>
 
-- AV Engineer at <a href="https://www.moncadaylorenzo.es/">Moncada</a> (april 2022-now)
-	- Technical support for most important broadcasters in Spain (RTVE, Atresmedia, Mediaset, ...) and Cine Rentals
-	- Pre-sales and post-sales consultancy and support
-	- System installation and configurations
-	- Tracking system integrator for VR and AR systems. Lens calibration
-
-- Technical Engineer for <a href="https://www.aten.com/eu/en/">ATEN Infotech N.V.</a> (7 months)
-	- KVM and IT products manufacturer
-	- Technical consultancy for Spain and Portugal
-	- Pre-sales and post-sales support
-	- Order management using SAP
-	- Oppportunities management in Salesforce
-
-- Engineer at <a href="http://vitelsa.es/">Vitelsa</a> (4 months)
-	- NDI production system
-	- Configuration and testing of remote production on TriCaser ecosystem
-	- Installation and configuration on the required locations
-
-- Engineering internship at <a href="http://vitelsa.es/">Vitelsa</a> (6 months)
-	- Audiovisual and control systems integration
-	- Digital signage (BrightSign)
-	- Project memory, budget and presentation
-	- Planimetry (AutoCAD)
-
-
-<h3>💻 Electronics & Programming</h3>
-
-- <a href="https://l4g0.github.io/metronemo/">MetroNemo</a>
-- <a href="https://l4g0.github.io/asteroids/">Asteroids Game</a>
-
-<h3>🎸 Music and Sound</h3>
-- Currently playing bass with <a href="https://www.instagram.com/cometaclubdefans/">Cometa</a>
-- Gigs with diverse bands, playing sax, drums and bass guitar
-- Recording, producer, mix and mastering for Cometa
-- Recording assistant in SAVVA's <a href="https://www.youtube.com/watch?v=Y3CaMsmRq2U">Livve Demos</a> album (2019)
-- Auto-produced songs/demos (available at my <a href="https://soundcloud.com/soylago">SoundCloud</a>)
-- Sound technician for small jam sessions and gigs.
-- Recording, mixing and mastering engineer for two Si Quieres Te Peino singles:
-	- <a href="https://youtu.be/4CgRB15LCm4">Sonia</a>
-	- <a href="https://youtu.be/7LgmHn0uxG4">Mares de Polvo</a>
-
-I have a YT playlist with my works:
+<p>Tengo una lista en YouTube con algunos de mis trabajos:</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLa780S15kHCWuizNL8waM-daxOZ1MqTxO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-	
 <br>
-<h1>Skills</h1>
-<h3>Sound</h3>
+<h1>Habilidades</h1>
+
+<h3>Sonido</h3>
 <ul class="skill-list">
-	<li>Audio edition - production - mixing...</li>
-	<li>Acoustics - Sonorization</li>
-	<li>Microphones and speakers</li>
+	<li>Edición, producción, mezcla y masterización de audio</li>
+	<li>Acústica y sonorización</li>
+	<li>Electroacústica: micrófonos y altavoces</li>
 </ul>
 
-<h3>Video</h3>
+<h3>Vídeo</h3>
 <ul class="skill-list">
-	<li>Familiarized with the broadcast enviroment</li>
-	<li>Video matrices, mixers, CCUs knowledge</li>
-	<li>Non linear video edition</li>
-	<li>System integration</li>
+	<li>Familiarizado con el flujo de trabajo en entornos broadcast</li>
+	<li>Amplio conocimiento de matrices de vídeo, mezcladores, CCUs y demás equipamiento de vídeo</li>
+	<li>Conocimientos de edición de vídeo no lineal</li>
+	<li>Experiencia constante en integración de sistemas</li>
 </ul>
 
-
-<h3>Programming</h3>
+<h3>Programación</h3>
 <ul class="skill-list">
-	<li>Java - C </li>
-	<li>Octave - Matlab </li>
-	<li>HMTL - CSS - JavaScript</li>
-	<li>Processing - Wekinator - Sonic Pi</li>
-</ul>
-<h3>Electronics</h3>
-<ul class="skill-list">
-	<li>Microcontrollers - Arduino</li>
-	<li>Analog Electronics</li>
+	<li>Java, C</li>
+	<li>Octave, Matlab</li>
+	<li>HTML, CSS, JavaScript</li>
+	<li>Processing, Wekinator, Sonic Pi</li>
 </ul>
 
-<h3>Music</h3>
+<h3>Electrónica</h3>
 <ul class="skill-list">
-	<li>Music Theory</li>
-	<li>Instruments: sax, drums, piano/keyboard, guitar, bass...</li>
+	<li>Microcontroladores (Arduino)</li>
+	<li>Electrónica analógica</li>
+	<li>Soldadura de componentes y reparaciones básicas</li>
+</ul>
+<p>He colaborado y realizado proyectos en las asociaciones <a href="https://music.uc3m.es">UC3Music</a> y <a href="https://asrob.uc3m.es/">ASROB</a>.</p>
+
+<h3>Música</h3>
+<ul class="skill-list">
+	<li>Teoría musical</li>
+	<li>Instrumentos: saxofón, batería, piano/teclado, guitarra, bajo</li>
 </ul>
 
-If you are interested, you can check a more detailed <a href="https://www.linkedin.com/in/pabiolago/">resume</a> in LinkedIn.
+<p>Si quieres ver más detalles sobre mi experiencia, puedes visitar mi <a href="https://www.linkedin.com/in/pabiolago/">perfil de LinkedIn</a>.</p>
